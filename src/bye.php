@@ -4,7 +4,7 @@ namespace smokejkee\test2;
 
 class bye
 {
-    function __construct() {
+    function bye() {
         echo 'bye';
     }
 }

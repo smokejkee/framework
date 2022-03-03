@@ -2,7 +2,7 @@
 namespace smokejkee\test2;
 class hello
 {
-    function __construct() {
+    function hello() {
         echo 'HELLO, I WORK';
     }
 }

@@ -2,7 +2,7 @@
 namespace smokejkee\test2;
 class plugin
 {
-    function __construct() {
+    function plugin() {
         echo 'PLUGIN IS WORK';
     }
 }
