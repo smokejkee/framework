@@ -1,0 +1,17 @@
+{
+    "name": "smokejkee/test2",
+    "description": "test 2",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "smokejkee\\test2\\": ["src/", "src/plugins"]}
+    },
+    "authors": [
+        {
+            "name": "SmokeJkee",
+            "email": "niikitos2012@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
